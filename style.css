@@ -1,0 +1,134 @@
+body {
+margin: 0;
+width: 100%;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+header div img {
+    height: 40px;
+    padding-top: 5px;
+}
+
+.bg-blue {
+    background-color: #364759;   
+}
+
+nav ul {
+    margin-top: 0;
+    margin-bottom: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+li {
+    display: inline;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+main {
+    background-color: #eaeded;
+    padding: 2rem;
+}
+
+.bg-image-dark {
+    background-color: #222f3e;
+    padding: 0.5rem 2rem;
+    box-sizing: border-box;
+}
+
+.bg-gift_cards {
+    background-color: #f56600;
+    padding: 0.5rem 0.5rem;
+    text-align: center;
+    color: white;
+}
+
+.bg-jumbotron {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-image: url(./assets/bg-image.png);
+    background-repeat: repeat-y;
+    background-size: cover;
+    color: white;
+}
+
+.bg-white {  
+    width: 100%; 
+    text-align: center;
+    background-color: white;
+}
+
+.title-container {
+    text-align: left;
+    padding: 1rem 1rem 0 1.5rem;
+}
+
+.title {
+    font-size: 1.3rem;
+}
+
+.subtitle {
+   font-weight: 600;
+   color: #007185; 
+   margin-left: 1rem;
+}
+
+.col-img {
+    width: 300px;
+    display: inline-block;
+    height: 400px;
+    margin: 1rem;
+    border-radius: 20px;    
+    object-fit: cover;
+    box-shadow: 10px 8px 15px 0px #223c5033;
+}
+
+.img-container {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+#img {
+    width: 100%;
+}
+
+footer {
+    text-align: center;
+}
+
+#back-to-top {
+    padding: 1rem;
+    background-color: #364759;
+    color: white;
+    text-decoration: none;
+}
+
+.color-white {
+    color: white;
+    font-weight: 600;
+}
+
+#footer-logo {
+    width: 100%;
+    background-color: #222f3e;
+}
+
+#footer-logo img {
+    height: 50px;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
